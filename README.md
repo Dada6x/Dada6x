@@ -1,6 +1,6 @@
 <pre lang="javascript">
 <h3 align="center">
-  HelloWorld! , This is Yahea, im a Student at Damascus University.
+Hello, I’m yahea, a Software Engineering student at Damascus University.
 </h3>
 </pre>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=FrontEnd+Developer;Software+Engineer;Racist pro max" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=FrontEnd+Developer;Software+Engineer;" alt="Typing SVG" /></a>
 </p>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
