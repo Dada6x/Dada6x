@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=FrontEnd+Developer;Software+Engineer;" alt="Typing SVG" /></a>
 </p>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/00/d9/85/00d98563713c6b11b855b25127ca15cf.gif">
 
 ### 🛈 About Me (<a href="./CV/Yahea Dada Cv.pdf" target="_blank">Check my CV</a>)
 
