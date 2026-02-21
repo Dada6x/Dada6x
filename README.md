@@ -5,7 +5,15 @@
 </picture>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=FrontEnd+Developer;Software+Engineer;" alt="Typing SVG" /></a>
+  <!-- Flutter Developer in Blue -->
+  <a href="https://git.io/typing-svg" style="display: inline-block; margin-right: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2396ED&center=true&width=200&lines=Flutter+Developer" alt="Flutter Developer" />
+  </a>
+  <!-- Nest Developer in Red -->
+  <a href="https://git.io/typing-svg" style="display: inline-block; margin-right: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E81123&center=true&width=200&lines=Nest.js+Developer" alt="Nest Developer" />
+  </a>
+
 </p>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -22,8 +30,8 @@
         <br><small>Flutter</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
-        <br><small>HTML</small>
+        <img src="https://avatars.githubusercontent.com/u/115746275?v=4" alt="ShoreBird" width="50" height="50" />
+        <br><small>ShoreBird</small>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" />
@@ -48,12 +56,12 @@
         <br><small>Figma</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
-        <br><small>Git</small>
+        <img src="https://skillicons.dev/icons?i=nest" alt="Nestjs" width="50" height="50" />
+        <br><small>Nest.js</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
-        <br><small>GitHub</small>
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50" />
+        <br><small>TypeScript</small>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
@@ -85,12 +93,12 @@
       <!-- ! -->
     </tr>
           <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
-        <br><small>Java</small>
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+        <br><small>Docker</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" width="50" height="50" />
-        <br><small>C++</small>
+        <img src="https://assets.streamlinehq.com/image/private/f_auto/v1/icons/logos/rive-h5f5mg31a4vo9drr32phch.png/rive-sh0diedc9krgewkr8r1k5l.png" alt="Cpp" width="50" height="50" />
+        <br><small>Rive</small>
       </td>
      <td align="center">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50" height="50" />
@@ -119,8 +127,8 @@
         <br><small>Vs Code</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="50" height="50" />
-        <br><small>WebStorm</small>
+        <img src="https://logo.svgcdn.com/logos/docusaurus.svg" alt="Docusaurus" width="50" height="50" />
+        <br><small>Docusaurus</small>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="50" height="50" />
@@ -129,16 +137,3 @@
     
   </table>
 </div>
-<h3 align="center"><samp>📊 GitHub Stats 📊</samp></h3>
-
-![](https://github-readme-stats.vercel.app/api?username=Dada6x&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dada6x&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dada6x&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<h3 align="center"><samp>✍️ Random Dev Quote ✍️</samp></h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dada6x&icon=3&color=7)](https://visitcount.itsvg.in)
