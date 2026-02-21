@@ -4,16 +4,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dada6x/Dada6x/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-  <!-- Flutter Developer in Blue -->
-  <a href="https://git.io/typing-svg" style="display: inline-block; margin-right: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2396ED&center=true&width=200&lines=Flutter+Developer" alt="Flutter Developer" />
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2396ED&center=true&width=250&lines=Flutter+Developer" alt="Flutter Developer" />
   </a>
-  <!-- Nest Developer in Red -->
-  <a href="https://git.io/typing-svg" style="display: inline-block; margin-right: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E81123&center=true&width=200&lines=Nest.js+Developer" alt="Nest Developer" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E81123&center=true&width=250&lines=Nest.js+Developer" alt="Nest Developer" />
   </a>
-
 </p>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
